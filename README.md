@@ -3,21 +3,30 @@
 
 ---
 
-<p align="center">
+### About Me
+
+I post my schoolwork, projects, and assignments here for those interested or needing help with their COMS, CPRE, or SE classes at Iowa State. I'm currently focused on Java and do a lot of front-end work in Android Studio. I also have a huge interest in cybersecurity; my knowledge is introductory, but I'm working on it every day. If you share any of these interests or just want to chat, please feel free to reach out!
+<p align="left">
   <img src="https://img.shields.io/github/followers/Jr24Future?label=Follow&style=social" alt="GitHub Followers"/>
 </p>
 
 ---
-
-### About Me
-
-I post my schoolwork, projects, and assignments here for those interested or needing help with their COMS, CPRE, or SE classes at Iowa State. I'm currently focused on Java and do a lot of front-end work in Android Studio. I also have a huge interest in cybersecurity; my knowledge is introductory, but I'm working on it every day. If you share any of these interests or just want to chat, please feel free to reach out!
 
 ### Connect with Me
 <p align="left">
   <a href="mailto:errollbarker1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/erroll-barker-123362294" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 
 ### Languages and Tools I Have Used
 <p align="left">
@@ -37,11 +46,4 @@ I post my schoolwork, projects, and assignments here for those interested or nee
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
