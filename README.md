@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Jr24Future?label=Follow&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Jr24Future?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -43,7 +42,6 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
