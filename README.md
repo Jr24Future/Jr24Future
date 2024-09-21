@@ -29,8 +29,8 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&card_width=400" alt="Jr24Future's GitHub Stats" style="border: 2px solid #00ff00; border-radius: 10px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Jr24Future's Top Languages" style="border: 2px solid #00ff00; border-radius: 10px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&card_width=400" alt="Jr24Future's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&langs_count=8&theme=dark&hide_border=false&border_radius=10&card_width=400" alt="Jr24Future's Top Languages" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I post my schoolwork, projects, and assignments here for those interested or nee
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="color:white;"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap" width="120" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
