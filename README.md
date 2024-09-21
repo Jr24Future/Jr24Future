@@ -29,10 +29,12 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview"/>
-  <img height="180em" src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg" alt="GitHub Stats Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=dark" alt="Jr24Future's GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=dark" alt="Jr24Future's Top Languages"/>
+</p>
 
 ---
 
