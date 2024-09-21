@@ -29,8 +29,12 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview">
+    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Stats Languages">
+  </picture>
 </p>
 
 ---
