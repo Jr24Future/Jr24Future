@@ -29,8 +29,8 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
 ---
