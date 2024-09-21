@@ -29,11 +29,8 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=dark" alt="Jr24Future's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&theme=dark" alt="Jr24Future's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jr24Future&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&card_width=400" alt="Jr24Future's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jr24Future&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Jr24Future's Top Languages"/>
 </p>
 
 ---
