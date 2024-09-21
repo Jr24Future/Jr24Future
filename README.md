@@ -30,12 +30,20 @@ I post my schoolwork, projects, and assignments here for those interested or nee
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview">
-    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Stats Languages">
+    <!-- Dark mode images -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg">
+    
+    <!-- Light mode fallback (or general display if prefers-color-scheme doesn't apply) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg">
+    
+    <!-- Fallback image in case browser doesn't support <picture> -->
+    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview">
+    <img src="https://raw.githubusercontent.com/Jr24Future/github-stats/master/generated/languages.svg" alt="GitHub Stats Languages">
   </picture>
 </p>
+
 
 ---
 
